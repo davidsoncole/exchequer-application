@@ -100,7 +100,7 @@
         <v-container class="d-none d-sm-flex">
             <v-row align="center" justify="center">
                 <v-img
-                src="../../assets/mobile-friendly.gif"
+                src="../../assets/mobile_user.svg"
                 aspect-ratio="1"
                 class="grey lighten-2"
                 max-width="500"

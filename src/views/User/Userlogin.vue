@@ -52,12 +52,11 @@
             <p class="caption">or continue with</p>
             <v-icon color="red">mdi-google-plus-box</v-icon>
             <v-icon color="blue">mdi-facebook-box</v-icon>
-            <v-icon color="cyan">mdi-twitter-box</v-icon>
         </v-container>
         <v-container class="d-none d-sm-flex">
             <v-row align="center" justify="center">
                 <v-img
-                src="../../assets/mobile-friendly.gif"
+                src="../../assets/mobile_user.svg"
                 aspect-ratio="1"
                 class="grey lighten-2"
                 max-width="500"
@@ -101,6 +100,6 @@ export default {
 
 <style scoped>
   .user-login {
-    padding: 10vh 5vw 0 5vw;
+    padding: 5vh 5vw 0 5vw;
   }
 </style>

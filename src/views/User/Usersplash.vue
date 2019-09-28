@@ -3,6 +3,7 @@
   <v-card
     class="mx-auto d-sm-none"
     height="100vh"
+    flat
   >
     <v-card-title class="title font-weight-regular justify-space-between">
       
@@ -89,7 +90,7 @@
   <v-container class="d-none d-sm-flex">
             <v-row align="center" justify="center">
                 <v-img
-                src="../../assets/mobile-friendly.gif"
+                src="../../assets/mobile_user.svg"
                 aspect-ratio="1"
                 class="grey lighten-2"
                 max-width="500"
@@ -125,13 +126,13 @@
 
 <style scoped>
     .v-card__text {
-        height: 85vh;
+        height: 80vh;
     }
     .v-image {
         margin-top: 10vh;
     }
     h3 {
-        margin-top: 15vh;
+        margin-top: 10vh;
         margin-bottom: 10px;
     }
 </style>
